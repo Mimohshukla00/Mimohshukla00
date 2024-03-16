@@ -62,11 +62,15 @@
   <a align="left" href="https://github.com/Mimohshukla00/Whether-using-javascript" title="Whether-using-javascript"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Mimohshukla00&repo=Whether-using-javascript&theme=react&border_color=61dafb&border_radius=10"></a>
   <a align="right" href="https://github.com/Mimohshukla00/React" title="React"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Mimohshukla00&repo=React&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
+<p align="center">Weather application using JavaScript and React.js.</p>
+<p align="center">A collection of React projects.</p>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/Mimohshukla00/practiseofjs" title="practiseofjs"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Mimohshukla00&repo=practiseofjs&theme=react&border_color=61dafb&border_radius=10"></a>
   <a align="right" href="https://github.com/Mimohshukla00/Java" title="Java"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Mimohshukla00&repo=Java&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
+<p align="center">A repository for practicing JavaScript concepts.</p>
+<p align="center">Projects and examples in Java programming language.</p>
 <br/><br/><br/><br/><br/><br/>
 
 <h4 align="center">
