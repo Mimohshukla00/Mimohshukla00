@@ -2,7 +2,7 @@
 <p align="center">
 
 <p align="center">
-  <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Undergraduate;Learning+Full+Stack+Software+Developer;Aspiring+Learner&center=true&width=500&height=50"></a>
+  <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Undergraduate;Learning+Full+Stack+Software+Development;Aspiring+Learner&center=true&width=500&height=50"></a>
 <img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="230" />
 
 [![Linkedin Badge](https://img.shields.io/badge/-mimohshukla00-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mimoh/)](https://www.linkedin.com/in/mimohshukla00/)
